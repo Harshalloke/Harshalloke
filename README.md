@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-<img width="1584" height="396" alt="Hello, my name is Harshal  Nice to meet you" src="https://github.com/user-attachments/assets/7125f391-9f1b-4a4e-862b-fd540632e8c6" alt="Harshal Loke Banner" width="100%"/>
+<img width="1584" height="396" alt="Hello, my name is Harshal  Nice to meet you" src="https://github.com/user-attachments/assets/bdbf8dab-8656-4f00-b114-8a1fd76caa3b" alt="Harshal Loke Banner" width="100%" />
 
 <!-- Profile Picture -->
 <p align="center">
