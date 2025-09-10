@@ -78,14 +78,4 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Harshalloke/Harshalloke/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  💡 <i>“Code is poetry when logic meets imagination.”</i>
-</p>
