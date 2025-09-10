@@ -59,14 +59,5 @@
 
 ---
 
-## 🏆 GitHub Trophies & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshalloke&theme=radical&margin-w=10" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshalloke&theme=react-dark" />
-</p>
-
----
 
 
