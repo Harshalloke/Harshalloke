@@ -35,9 +35,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔮 AI-Powered Quiz Master]() | Create smart quizzes with Gemini API + Supabase | Next.js, Gemini API, Supabase |
-| [📈 Crypto Predictor](#) | Real-time crypto insights and ML predictions | React, Python, scikit-learn |
-| [📋 Project Manager](#) | Team sprint tracker with tasks, chats, charts | Next.js, Clerk, PostgreSQL |
+| [AI-Powered Quiz Master](https://github.com/Harshalloke/ai-quiz-master) | Create smart quizzes with Gemini API + Supabase | Next.js, Gemini API, Supabase |
+| [AI-Powered Accent Detector](https://github.com/Harshalloke/accent-detector-frontend) |  Uses OpenAI Whisper + Google Gemini | Next.js 14, Whisper (Gradio), Supabase |
+| [TripCraft](https://github.com/Harshalloke/TripCraft) |  no account, no paid APIs, only your Gemini key | Next.js 14, Gemini API, Zustand |
+| [SmartHire](https://github.com/Harshalloke/SmartHire) | ML/NLP, SQLite | Python, Flask, HTML5, CSS3 (Glassmorphism), Vanilla JS |
 
 ---
 
