@@ -61,5 +61,4 @@
 ---
 
 
-1[snake_gif](https://github.com/Harshalloke/Harshalloke/blob/main/.github/workflows/snake.yml)
 
