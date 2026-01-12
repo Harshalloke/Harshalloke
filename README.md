@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer building apps with **Next.js**, **Supabase**, and **TailwindCSS**
-- 📊 Exploring data science with **Python**, **Pandas**, and **Machine Learning**
-- 🤖 Passionate about AI, building tools using **Gemini** and **OpenAI APIs**
-- 🧠 I love solving problems and turning ideas into reality with code
+- Full-stack developer building apps with **Next.js**, **Supabase**, and **TailwindCSS**
+- Exploring data science with **Python**, **Pandas**, and **Machine Learning**
+- Passionate about AI, building tools using **Gemini** and **OpenAI APIs**
+- I love solving problems and turning ideas into reality with code
 
 ---
 
@@ -28,17 +28,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel,supabase,firebase,python,pandas,sklearn,matplotlib,git,vscode" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [AI-Powered Quiz Master](https://github.com/Harshalloke/ai-quiz-master) | Create smart quizzes with Gemini API + Supabase | Next.js, Gemini API, Supabase |
-| [AI-Powered Accent Detector](https://github.com/Harshalloke/accent-detector-frontend) |  Uses OpenAI Whisper + Google Gemini | Next.js 14, Whisper (Gradio), Supabase |
-| [TripCraft](https://github.com/Harshalloke/TripCraft) |  no account, no paid APIs, only your Gemini key | Next.js 14, Gemini API, Zustand |
-| [SmartHire](https://github.com/Harshalloke/SmartHire) | ML/NLP, SQLite | Python, Flask, HTML5, CSS3 (Glassmorphism), Vanilla JS |
 
 ---
 
