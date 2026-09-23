@@ -1,4 +1,21 @@
-\<div align="center"> \<img width="100%" alt="Harshal Loke Banner" src="[https://github.com/user-attachments/assets/a42e7c59-2145-4849-8ca9-44ba6f3d09c0](https://github.com/user-attachments/assets/a42e7c59-2145-4849-8ca9-44ba6f3d09c0)" /> \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+ML+Engineer;Physics+%E2%86%92+Code+%E2%86%92+Chaos;Building+research-grounded+ML+projects;Game+Dev+%7C+RL+%7C+Computer+Vision](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=26\&duration=3000\&pause=800\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Full-Stack+%2B+ML+Engineer;Physics+%E2%86%92+Code+%E2%86%92+Chaos;Building+research-grounded+ML+projects;Game+Dev+%7C+RL+%7C+Computer+Vision)" alt="Typing SVG" /> \<p>   \<a href="[https://www.linkedin.com/in/harshal-loke](https://www.linkedin.com/in/harshal-loke)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>   \<a href="[https://mail.google.com/mail/?view=cm&to=lokeharshal2004@gmail.com](https://mail.google.com/mail/?view=cm\&to=lokeharshal2004@gmail.com)">\<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>   \<a href="[https://harshal-loke-portfolio.vercel.app/](https://harshal-loke-portfolio.vercel.app/)">\<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" />\</a>   \<a href="[https://www.fiverr.com/](https://www.fiverr.com/)">\<img src="[https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge\&logo=fiverr\&logoColor=white)" />\</a> \</p> \<img src="[https://komarev.com/ghpvc/?username=Harshalloke&style=for-the-badge&color=58A6FF](https://komarev.com/ghpvc/?username=Harshalloke\&style=for-the-badge\&color=58A6FF)" alt="profile views" /> \</div> \<br/> 
+<div align="center">
+
+<img width="100%" alt="Harshal Loke Banner" src="https://github.com/user-attachments/assets/a42e7c59-2145-4849-8ca9-44ba6f3d09c0" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+ML+Engineer;Physics+%E2%86%92+Code+%E2%86%92+Chaos;Building+research-grounded+ML+projects;Game+Dev+%7C+RL+%7C+Computer+Vision" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/harshal-loke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=lokeharshal2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://harshal-loke-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Harshalloke&style=for-the-badge&color=58A6FF" alt="profile views" />
+
+</div>
+
+<br/>
 
 ## ⚡ About Me
 
@@ -12,7 +29,6 @@ class Harshal:
 
     def philosophy(self):
         return "rigorous eval > flashy demo — no leakage, no shortcuts"
-
 ```
 
 - 🔭 Building **research-grounded ML projects** — benchmarked, evaluated honestly, and demoed live, not tutorial-style clones
@@ -21,23 +37,27 @@ class Harshal:
 - 💼 Freelance full-stack developer on **Fiverr**, shipping Next.js + Supabase apps
 - 🧪 Obsessive about honest evaluation — if a model hits 98% accuracy, I go find out *why* before I trust it
 
- \<br/> 
+<br/>
 
 ## 🧩 Featured Projects
 
-| Project Description Stack                                                                      |                                                                                                        |                                  |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------- |
-| 🌌 [**Galaxy10 SSL**](https://claude.ai/chat/442b6bee-d291-4d85-8cda-961aaee70bb4#)            | Self-supervised learning CNN for galaxy morphology classification on Galaxy10 DECaLS                   | PyTorch, SSL, CV                 |
-| 🐕 [**Quadruped RL Locomotion**](https://claude.ai/chat/442b6bee-d291-4d85-8cda-961aaee70bb4#) | Physics-based quadruped locomotion via PPO, grounded in DeepMimic / DeepLoco, with a live teacher demo | PyBullet, Stable-Baselines3, PPO |
-| 🗄️ [**Text-to-SQL Engine**](https://claude.ai/chat/442b6bee-d291-4d85-8cda-961aaee70bb4#)     | NL→SQL system benchmarked on the Spider dataset                                                        | CodeT5, SQLite, Streamlit        |
+| Project | Description | Stack |
+|---|---|---|
+| 🌌 **[Galaxy10 SSL](#)** | Self-supervised learning CNN for galaxy morphology classification on Galaxy10 DECaLS | PyTorch, SSL, CV |
+| 🐕 **[Quadruped RL Locomotion](#)** | Physics-based quadruped locomotion via PPO, grounded in DeepMimic / DeepLoco, with a live teacher demo | PyBullet, Stable-Baselines3, PPO |
+| 🗄️ **[Text-to-SQL Engine](#)** | NL→SQL system benchmarked on the Spider dataset | CodeT5, SQLite, Streamlit |
 
 > Swap `#` for the actual repo links once this is pushed.
 
- \<br/> 
+<br/>
 
 ## 🛠️ Tech Stack
 
- \<p align="center">   \<img src="[https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel,supabase,firebase,python,pytorch,sklearn,pandas,matplotlib,git,vscode&theme=dark](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel,supabase,firebase,python,pytorch,sklearn,pandas,matplotlib,git,vscode\&theme=dark)" /> \</p> \<br/> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel,supabase,firebase,python,pytorch,sklearn,pandas,matplotlib,git,vscode&theme=dark" />
+</p>
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -47,12 +67,14 @@ class Harshal:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshalloke&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
+<br/>
 
- \<br/> \<div align="center"> 
+> Generated by the [Platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to activate this.
+
+<br/>
+
+<div align="center">
 
 **Turning physics, games, and models into things that actually work.**
 
- \</div>  
-three iamges not seeing fix it 
-
-
+</div>
