@@ -63,11 +63,13 @@ class Harshal:
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=Harshalloke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Harshal's GitHub Stats"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshalloke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshalloke&layout=compact&theme=tokyonight" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=Harshalloke&theme=tokyonight&hide_border=true" />
 
 </div>
 
