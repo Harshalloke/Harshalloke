@@ -65,8 +65,6 @@ class Harshal:
 
 
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshalloke&layout=compact&theme=tokyonight" />
-
 <br/>
 
 <img height="165" src="https://streak-stats.demolab.com/?user=Harshalloke&theme=tokyonight&hide_border=true" />
